@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>crystal_1.jpg</filename>
+	<path>C:/Tensorflow1/images/train/crystal_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crystal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>103</ymin>
+			<xmax>185</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

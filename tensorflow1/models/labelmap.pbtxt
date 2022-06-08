@@ -1,0 +1,81 @@
+item {
+  id: 1
+  name: 'RBC'
+}
+
+item {
+  id: 2
+  name: 'WBC'
+}
+
+item {
+  id: 3
+  name: 'Epithelial'
+}
+
+item {
+  id: 4
+  name: 'Bacteria'
+}
+
+item {
+  id: 5
+  name: 'Yeast'
+}
+
+item {
+  id: 6
+  name: 'Parasites'
+}
+item {
+  id: 7
+  name: 'Casts'
+}
+
+item {
+  id: 8
+  name: 'Crystal'
+}
+
+item {
+  id: 9
+  name: 'UTI'
+}
+
+item {
+  id: 10
+  name: 'Kidney Disease'
+}
+
+item {
+  id: 11
+  name: 'Cancer'
+}
+
+item {
+  id: 12
+  name: 'MedReaction'
+}
+item {
+  id: 13
+  name: 'Prostate Infection'
+}
+item {
+  id: 14
+  name: 'Liver Disease'
+}
+
+item {
+  id: 15
+  name: 'Viral Infection'
+}
+
+item {
+  id: 16
+  name: 'Yeast Infection'
+}
+
+item {
+  id: 17
+  name: 'Parasitic Infection'
+}
